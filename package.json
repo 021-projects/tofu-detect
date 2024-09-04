@@ -1,0 +1,22 @@
+{
+  "name": "tofu-detect",
+  "version": "1.0.0",
+  "description": "Helps to detect if character rendered as tofu",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": ["tofu", "detect", "character"],
+  "author": "021-projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/021-projects/tofu-detect.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.5.3",
+    "typescript": "^5.5.4"
+  }
+}
